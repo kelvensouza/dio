@@ -1,2 +1,2 @@
-# dio
-Repositório para o postar os projetos e exercícios práticos.
+# DIO 
+Repositório para o postar os projetos e exercícios práticos dos bootcamps.
