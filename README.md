@@ -1,2 +1,2 @@
 # Projetos e exercícios da DIO 
-Repositório para o postar os projetos e exercícios práticos dos bootcamps.
+Repositório que serão postados os projetos e exercícios práticos dos bootcamps.
